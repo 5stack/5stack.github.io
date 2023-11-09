@@ -30,5 +30,5 @@ This number cannot just be changed by changing the value
 
 The Add and Check out pages should also be somewhat similar. The difference being how they manipulate the database. 
 ## Contract link
-Google Doc: [5tack Contract](https://docs.google.com/document/d/1d8_uQh5tRcIG5yzwuxLhPaZy40JoRs0NsppXXmh5sM4/edit?usp=sharing).
+Google Doc: [5stack Contract](https://docs.google.com/document/d/1d8_uQh5tRcIG5yzwuxLhPaZy40JoRs0NsppXXmh5sM4/edit?usp=sharing).
 
