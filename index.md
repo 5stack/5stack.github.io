@@ -1,15 +1,4 @@
----
-layout: essay
-type: essay
-title: "Zero Waste "
-# All dates must be YYYY-MM-DD format!
-date: 2023-09-20
-published: true
-labels:
-  - Coding Standars
-  - JavaScript
-  - ESLint
----
+
 ## Overview.
 The application will allow the vendor to keep track of the distribution of containers, making inventory management easier. It will also assist in monitoring the number of containers checked out, simplifying the return process for users. This will help the vendor to easily identify who has returned the containers and who has not. 
 
