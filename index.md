@@ -23,10 +23,6 @@ The application will allow the vendor to keep track of the distribution of conta
 ### Elijah
 <img src="doc/Eli.png" style="height: 400px">
 
-<hr />
-
-### [Team Contract](https://docs.google.com/document/d/1d8_uQh5tRcIG5yzwuxLhPaZy40JoRs0NsppXXmh5sM4/edit#heading=h.xe44cgxgazk8)
-
 ## What is Zero Waste?
 <hr />
 Problem: A non-profit organization operating a reusable takeout container program to replace single-use plates at events are losing 20-30% of containers.
@@ -57,3 +53,7 @@ This number cannot just be changed by changing the value
 <img src="doc/Add.png">
 
 The Add and Check out pages should also be somewhat similar. The difference being how they manipulate the database. 
+
+## Contract link
+<hr />
+Google Doc: [5stack Contract](https://docs.google.com/document/d/1d8_uQh5tRcIG5yzwuxLhPaZy40JoRs0NsppXXmh5sM4/edit?usp=sharing).
