@@ -1,4 +1,5 @@
-##Overview.
+## Overview.
+The application will allow the vendor to keep track of the distribution of containers, making inventory management easier. It will also assist in monitoring the number of containers checked out, simplifying the return process for users. This will help the vendor to easily identify who has returned the containers and who has not. 
 
 <img src="doc/Landing.png">
 
