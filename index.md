@@ -9,7 +9,7 @@ The application will allow the vendor to keep track of the distribution of conta
 
 ### Jordan
 
-<img src="doc/Jordan.png" style="height: 400px">
+<img src="doc/Jordan.png">
 
 ### Micah
 <img src="doc/Micah.png">
@@ -21,7 +21,7 @@ The application will allow the vendor to keep track of the distribution of conta
 <img src="doc/Reynald.png">
 
 ### Elijah
-<img src="doc/Eli.png" style="height: 400px">
+<img src="doc/Eli.png">
 
 ## What is Zero Waste?
 <hr />
