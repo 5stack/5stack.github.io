@@ -29,3 +29,4 @@ This number cannot just be changed by changing the value
 <img src="doc/Add.png">
 
 The Add and Check out pages should also be somewhat similar. The difference being how they manipulate the database. 
+
