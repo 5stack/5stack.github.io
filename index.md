@@ -42,9 +42,9 @@ Once logged in, you get your container count, which are provided by the company.
 
 This number cannot just be changed by changing the value
 
-<img src="doc/Landing.png">
-
 Updated landing page
+
+<img src="doc/Landing.png">
 
 ## Add / Checkout
 
