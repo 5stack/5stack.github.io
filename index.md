@@ -42,11 +42,21 @@ Once logged in, you get your container count, which are provided by the company.
 
 This number cannot just be changed by changing the value
 
+<img src="doc/Landing.png">
+
+Updated landing page
+
 ## Add / Checkout
 
 <img src="doc/Add.png">
 
-The Add and Check out pages should also be somewhat similar. The difference being how they manipulate the database. 
+The Add and Check out pages should also be somewhat similar. The difference being how they manipulate the database. Below is the Current version of the Check out page.
+
+<img src="doc/Checkout.png">
 
 ## Contract link
 Google Doc: [5stack Contract](https://docs.google.com/document/d/1d8_uQh5tRcIG5yzwuxLhPaZy40JoRs0NsppXXmh5sM4/edit?usp=sharing).
+
+## Milestones
+[M1 Milestone Issues Page](https://github.com/orgs/5stack/projects/1/views/1)
+
