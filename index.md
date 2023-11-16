@@ -44,7 +44,7 @@ This number cannot just be changed by changing the value
 
 Updated landing page
 
-<img src="doc/Landing.png">
+<img src="doc/MainPage.png">
 
 ## Add / Checkout
 
