@@ -32,7 +32,7 @@ The Solution: A way to keep customers accountable for returning the company's re
 
 <img src="doc/landing1.webp">
 
-Once logged in, you are able to check in or take out containers mattering if they are being borrowed or returned, etc.
+Once logged in, you are able to check in or take out containers mattering if they are being borrowed or returned, etc. A QR code is shown for customers to be able to log their information to be attached to a container.  This will keep track of who is taking out the container for when they return it.
 
 ### Add / Checkout
 
