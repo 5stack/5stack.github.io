@@ -32,19 +32,13 @@ The Solution: A way to keep customers accountable for returning the company's re
 
 <img src="doc/landing1.webp">
 
-Once logged in, you get your container count, which are provided by the company. It is going to have a background in the final. 
-
-This number cannot just be changed by changing the value
-
-Updated landing page
-
-<img src="doc/Landing.png">
+Once logged in, you are able to check in or take out containers mattering if they are being borrowed or returned, etc.
 
 ### Add / Checkout
 
 <img src="doc/Add.png">
 
-The Add and Check out pages should also be somewhat similar. The difference being how they manipulate the database. Below is the Current version of the Check out page.
+The Add and Check out pages are somewhat similar. The difference being how they manipulate the database. Below is the Current version of the Check out page.
 
 <img src="doc/checkout1.png">
 
