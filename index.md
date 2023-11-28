@@ -28,15 +28,9 @@ The Solution: A way to keep customers accountable for returning the company's re
 
 ## User Guide
 
-### Logging In / Signing Up
-
-<img src="doc/Login.png">
-
-This is what the page looks like when you make a new account as well as signing up.
-
 ### Main Page
 
-<img src="doc/MainPage.png">
+<img src="doc/landing1.webp">
 
 Once logged in, you get your container count, which are provided by the company. It is going to have a background in the final. 
 
@@ -74,5 +68,5 @@ Google Doc: [5stack Contract](https://docs.google.com/document/d/1d8_uQh5tRcIG5y
 ## Milestones
 [M1 Milestone Issues Page](https://github.com/orgs/5stack/projects/1/views/1)
 
-[M2 Milestone Issues Page](https://github.com/orgs/5stack/projects/1/views/1)
+[M2 Milestone Issues Page](https://github.com/orgs/5stack/projects/2/views/1)
 
