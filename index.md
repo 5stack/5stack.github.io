@@ -64,3 +64,5 @@ Google Doc: [5stack Contract](https://docs.google.com/document/d/1d8_uQh5tRcIG5y
 
 [M2 Milestone Issues Page](https://github.com/orgs/5stack/projects/2/views/1)
 
+[M3 Milestone Issues Page](https://github.com/orgs/5stack/projects/3)
+
